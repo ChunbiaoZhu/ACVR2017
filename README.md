@@ -6,7 +6,10 @@ An Innovative Salient Object Detection Using Center-Dark Channel Prior
 
 Chunbiao Zhu, Ge Li, Ronggang Wang, Wenmin Wang
 
-School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, Shenzhen, China 
+School of Electronic and Computer Engineering
+         Shenzhen Graduate School
+            Peking University
+            Shenzhen, China 
 
 
 WebPage
