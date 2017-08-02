@@ -1,13 +1,12 @@
 
-## ICCV2017 - 2017 IEEE International Conference on Computer Vision (Workshop ACVR)
+## ICCV2017 - 2017 IEEE International Conference on Computer Vision (Workshop)
 
-An Innovative Salient Object Detection Using Center-Dark Channel Prior
-======================================================================
-Chunbiao Zhu1, Ge Li1*, Xiaoqiang Guo2, Ronggang Wang1, Wenmin Wang1
+## An Innovative Salient Object Detection Using Center-Dark Channel Prior
 
-1School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, Shenzhen, China 
+Chunbiao Zhu, Ge Li, Xiaoqiang Guo, Ronggang Wang, Wenmin Wang
 
-2Academy of Broadcasting Science, SAPPRFT Beijing, China
+School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, Shenzhen, China 
+
 
 WebPage
  ======================================================================
