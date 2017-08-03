@@ -11,6 +11,7 @@
 
 [logo-acvr]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ACVRLogo.png "ACVR 2017 logo"
 
+| ![Junting Pan] | ![Kevin McGuinness] | ![Elisa Sayrol]| ![Noel O'Connor] | 
 |:-:|:-:|:-:|:-:|
 | [Chunbiao Zhu][czhu-web]  | [Ge Li][gl-web]    |  [Wenmin Wang][wwm-web] | [Ronggang Wang][wrg-web]   | 
 
