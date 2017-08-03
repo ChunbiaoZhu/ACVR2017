@@ -33,27 +33,6 @@
  	
 Saliency detection aims to detect the most attractive objects in images, which has been widely used as a foundation for various multimedia applications. In this paper, we propose a novel salient object detection algorithm for RGB-D images using center-dark channel prior. First, we generate an initial saliency map based on color saliency map and depth saliency map of a given RGB-D image. Then, we generate a center-dark channel map based on centre saliency prior and dark channel prior. Finally, we fuse the initial saliency map with centre dark channel map to generate the final saliency map. The proposed algorithm is evaluated on two public RGB-D datasets, and the experimental results show that our method outperforms the state-of-the-art methods. 
 
-## Publication
-
-[Our paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Shallow_and_Deep_CVPR_2016_paper.pdf) is open published thanks to the Computer Science Foundation. An [arXiv pre-print](http://arxiv.org/abs/1603.00845) is also available. 
-
-![Image of the paper](https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/figs/paper.jpg)
-
-Please cite with the following Bibtex code:
-
-````
-@InProceedings{Pan_2016_CVPR,
-author = {Pan, Junting and Sayrol, Elisa and Giro-i-Nieto, Xavier and McGuinness, Kevin and O'Connor, Noel E.},
-title = {Shallow and Deep Convolutional Networks for Saliency Prediction},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2016}
-}
-````
-
-You may also want to refer to our publication with the more human-friendly Chicago style:
-
-*Junting Pan, Kevin McGuinness, Elisa Sayrol, Noel E. O'Connor, and Xavier Giro-i-Nieto. "Shallow and Deep Convolutional Networks for Saliency Prediction." In Proceedings of the IEEE International Conference on Computer Vision (CVPR). 2016.*
 
 ## Framework
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/images/fig1.png)
@@ -61,7 +40,7 @@ You may also want to refer to our publication with the more human-friendly Chica
 
 ## Visual Results
 
-![Visual Results saliency detection](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/images/fig4.pngg)
+![Visual Results saliency detection](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/images/fig4.png)
 
 
 ## Website
