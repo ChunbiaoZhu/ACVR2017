@@ -11,8 +11,7 @@
 
 [logo-acvr]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ACVRLogo.png "ACVR 2017 logo"
 
-| ![Chunbiao Zhu][czhu-photo]  | ![Ge Li][geli-photo]  | ![Wenmin Wang][wangwm-photo]  | ![Ronggang Wang][wangrg-photo]  | 
-|:-:|:-:|:-:|:-:|
+
 | [Chunbiao Zhu][czhu-web]  | [Ge Li][gl-web]    |  [Wenmin Wang][wwm-web] | [Ronggang Wang][wrg-web]   | 
 
 
