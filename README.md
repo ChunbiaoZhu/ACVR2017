@@ -48,22 +48,23 @@ Thank you!
 
 [logo-acvr]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ACVRLogo.png "ACVR 2017 logo"
 
-| ![Junting Pan][JuntingPan-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
-|:-:|:-:|:-:|:-:|:-:|
-| Junting Pan (*)  | [Kevin McGuinness][KevinMcGuinness-web] (*)   |  [Elisa Sayrol][ElisaSayrol-web] | [Noel O'Connor][NoelOConnor-web]   | [Xavier Giro-i-Nieto][XavierGiro-web]   |
+| ![Chunbiao Zhu][czhu-photo]  | ![Ge Li][geli-photo]  | ![Wenmin Wang][wangwm-photo]  | ![Ronggang Wang][wangrg-photo]  | 
+|:-:|:-:|:-:|:-:|
+| [Chunbiao Zhu][czhu-web]  | [Ge Li][gl-web]    |  [Wenmin Wang][www-web] | [Ronggang Wang][wrg-web]   | 
 
-(*) Equal contribution
 
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
-[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-[NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
-[XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 
-[JuntingPan-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/JuntingPan.jpg "Junting Pan"
-[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/KevinMcGuinness.jpg "Kevin McGuinness"
-[ElisaSayrol-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/ElisaSayrol.jpg "Elisa Sayrol"
-[NoelOConnor-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/NoelOConnor.jpg "Noel O'Connor"
-[XavierGiro-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-2016-cvpr/master/authors/XavierGiro.jpg "Xavier Giro-i-Nieto"
+[czhu-web]: https://www.researchgate.net/profile/Chunbiao_Zhu
+[gl-web]: http://www.ece.pku.edu.cn/index.php?m=content&c=index&a=show&catid=507&id=68
+[wwm-web]: http://www.ece.pku.edu.cn/index.php?m=content&c=index&a=show&catid=507&id=42
+[wrf-web]: http://www.ece.pku.edu.cn/index.php?m=content&c=index&a=show&catid=507&id=48
+
+
+[czhu-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/czhu.jpg "Chunbiao Zhu"
+[geli-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/gl.jpg "Ge Li"
+[wangwm-photo] : https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wwm.jpg "Wenmin Wang"
+[wangrg-photo] : https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wrg.jpg "Ronggang Wang"
+
 
 A joint collaboration between:
 
