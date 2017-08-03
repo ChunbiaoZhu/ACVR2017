@@ -60,7 +60,7 @@ Thank you!
 [wrf-web]: http://www.ece.pku.edu.cn/index.php?m=content&c=index&a=show&catid=507&id=48
 
 
-[czhu-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/czhu.jpeg "Chunbiao Zhu"
+[czhu-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/czhu.png "Chunbiao Zhu"
 [geli-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/gl.jpg "Ge Li"
 [wangwm-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wwm.jpg  "Wenmin Wang"
 [wangrg-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wrg.jpg "Ronggang Wang"
@@ -88,8 +88,8 @@ A joint collaboration between:
 
 ## Abstract
 
-The prediction of salient areas in images has been traditionally addressed with hand-crafted features based on neuroscience principles. This paper, however, addresses the problem with a completely data-driven approach by training a convolutional neural network (convnet). The learning process is formulated as a minimization of a loss function that measures the Euclidean distance of the predicted saliency map with the provided ground truth. The recent publication of large datasets of saliency prediction has provided enough data to train end-to-end architectures that are both fast and accurate. Two designs are proposed: a shallow convnet trained from scratch, and a another deeper solution whose first three layers are adapted from another network trained for classification.
-To the authors knowledge, these are the first end-to-end CNNs trained and tested for the purpose of saliency prediction
+ 	
+Saliency detection aims to detect the most attractive objects in images, which has been widely used as a foundation for various multimedia applications. In this paper, we propose a novel salient object detection algorithm for RGB-D images using center-dark channel prior. First, we generate an initial saliency map based on color saliency map and depth saliency map of a given RGB-D image. Then, we generate a center-dark channel map based on centre saliency prior and dark channel prior. Finally, we fuse the initial saliency map with centre dark channel map to generate the final saliency map. The proposed algorithm is evaluated on two public RGB-D datasets, and the experimental results show that our method outperforms the state-of-the-art methods. 
 
 ## Publication
 
