@@ -35,12 +35,18 @@ Thank you!
 
 
 
-# An Innovative Salient Object Detection Using Center-Dark Channel Prior
+ ## An Innovative Salient Object Detection Using Center-Dark Channel Prior
 
 |  ![ICCV 2017 logo][logo-iccv] | Paper accepted at [2017 IEEE International Conference on Computer Vision (ICCV) Workshop](http://iccv2017.thecvf.com/)   |
 |:-:|---|
 
 [logo-iccv]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ICCVLogo.png "ICCV 2017 logo"
+
+
+|  ![ACVR 2017 logo][logo-acvr] | Paper accepted at [2017 Fifth International Workshop on Assistive Computer Vision and Robotics in conjuction with ICCV'17](http://iplab.dmi.unict.it/acvr2017/)   |
+|:-:|---|
+
+[logo-iacvr]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ACVRLogo.png "ACVR 2017 logo"
 
 | ![Junting Pan][JuntingPan-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  | ![Elisa Sayrol][ElisaSayrol-photo]  | ![Noel O'Connor][NoelOConnor-photo]  | ![Xavier Giro-i-Nieto][XavierGiro-photo]  |
 |:-:|:-:|:-:|:-:|:-:|
