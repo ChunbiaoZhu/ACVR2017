@@ -30,9 +30,9 @@ https://chunbiaozhu.github.io/ACVR2017/
 
 Code will be released soon!
 
-## Posterior work
+## Previous work
 
-If you were interested in this work, you may want to also check our posterior work, [CAIP2017](https://chunbiaozhu.github.io/CAIP2017/), which offers a better performance.
+If you were interested in this work, you may want to also check our previous work, [CAIP2017](https://chunbiaozhu.github.io/CAIP2017/), which offers a better performance.
 
 ## Acknowledgements
 
