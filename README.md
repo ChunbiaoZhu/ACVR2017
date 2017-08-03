@@ -23,10 +23,7 @@
 [wrg-web]: http://www.ece.pku.edu.cn/index.php?m=content&c=index&a=show&catid=507&id=48
 
 
-[czhu-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/czhu.png "Chunbiao Zhu"
-[geli-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/gl.jpg "Ge Li"
-[wangwm-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wwm.jpg  "Wenmin Wang"
-[wangrg-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wrg.jpg "Ronggang Wang"
+
 
 ## Abstract
 
