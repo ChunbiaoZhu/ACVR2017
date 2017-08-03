@@ -62,8 +62,8 @@ Thank you!
 
 [czhu-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/czhu.jpg "Chunbiao Zhu"
 [geli-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/gl.jpg "Ge Li"
-[wangwm-photo] : https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wwm.jpg "Wenmin Wang"
-[wangrg-photo] : https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wrg.jpg "Ronggang Wang"
+[wangwm-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wwm.jpg  "Wenmin Wang"
+[wangrg-photo]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/wrg.jpg "Ronggang Wang"
 
 
 A joint collaboration between:
