@@ -6,10 +6,7 @@
 [logo-iccv]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ICCVLogo.png "ICCV 2017 logo"
 
 
-|  ![ACVR 2017 logo][logo-acvr] | Paper accepted at [2017 Fifth International Workshop on Assistive Computer Vision and Robotics in conjuction with ICCV'17](http://iplab.dmi.unict.it/acvr2017/)   |
-|:-:|---|
 
-[logo-acvr]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ACVRLogo.png "ACVR 2017 logo"
 
 
 
