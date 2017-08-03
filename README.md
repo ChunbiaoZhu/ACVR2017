@@ -21,13 +21,14 @@ Saliency detection aims to detect the most attractive objects in images, which h
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/images/fig1.png)
 
 
-## Visual Results
-
-![Visual Results saliency detection](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/images/fig4.png)
 
 
-## Website
+## Web Page
 https://chunbiaozhu.github.io/ACVR2017/
+
+## Code
+
+Code will be released soon!
 
 ## Posterior work
 
