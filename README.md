@@ -36,6 +36,8 @@ Code will be released soon!
 
 If you were interested in this work, you may want to also check our previous work, [CAIP2017](https://chunbiaozhu.github.io/CAIP2017/), which offers a whole new idea.
 
+If you were interested in this work, you may want to also check our previous work, [MM2017](https://chunbiaozhu.github.io/MM2017/), which offers a whole new application.
+
 ## Acknowledgements
 
 This work was supported by the grant of National Natural Science Foundation of China (No.U1611461), Shenzhen Peacock Plan (20130408-183003656), and Science and Technology Planning Project of Guangdong Province, China (No. 2014B090910001).
