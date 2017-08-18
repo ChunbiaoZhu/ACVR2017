@@ -30,7 +30,7 @@ https://chunbiaozhu.github.io/ACVR2017/
 
 Code will be released soon!
 
-[Results on RGBD2 Dataset](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/Results-RGBD2.zip/)
+[Our Results on RGBD2 Dataset](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/ICCV_RGBD2.zip)
 
 ## Previous work
 
