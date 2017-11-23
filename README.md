@@ -28,7 +28,7 @@ https://chunbiaozhu.github.io/ACVR2017/
 
 ## Code & Results
 
-Code will be released soon!
+Code is available, drop us an e-mail at <mailto:zhuchunbiao@pku.edu.cn>.
 
 You can download our Results on RGBD2 Dataset in [here](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/ICCV_RGBD2.zip)
 
