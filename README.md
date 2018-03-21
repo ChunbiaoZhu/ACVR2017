@@ -32,6 +32,20 @@ Source code is released! You can download in [here](https://github.com/ChunbiaoZ
 
 You can download our Results on RGBD2 Dataset in [here](https://github.com/ChunbiaoZhu/ACVR2017/blob/master/ICCV_RGBD2.zip)
 
+Reference
+    @INPROCEEDINGS{8265388, 
+    author={C. Zhu and G. Li and W. Wang and R. Wang}, 
+    booktitle={2017 IEEE International Conference on Computer Vision Workshops (ICCVW)}, 
+    title={An Innovative Salient Object Detection Using Center-Dark Channel Prior}, 
+    year={2017}, 
+    volume={}, 
+    number={}, 
+    pages={1509-1515}, 
+    keywords={image colour analysis;object detection;RGB-D image;center-dark channel map;color saliency map;saliency detection;salient object detection algorithm;Euclidean distance;Feature extraction;Fuses;Image color analysis;Object detection;Visualization}, 
+    doi={10.1109/ICCVW.2017.178}, 
+    ISSN={}, 
+    month={Oct},}
+
 ## Previous work
 
 If you were interested in this work, you may want to also check our previous work, [CAIP2017](https://chunbiaozhu.github.io/CAIP2017/), which offers a whole new idea.
