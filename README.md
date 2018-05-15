@@ -9,7 +9,7 @@
 [logo-iccv]: https://github.com/ChunbiaoZhu/ACVR2017/blob/master/logo/ICCVLogo.png "ICCV 2017 logo"
 
 
-
+Extended verision (Exploiting the Value of the Center-dark Channel Prior for Salient Object Detection) can be downloaded at here[https://arxiv.org/abs/1805.05132]
 
 ## Abstract
 
