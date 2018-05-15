@@ -12,7 +12,7 @@
 
 ## Journal Version
 
-Extended verision (Exploiting the Value of the Center-dark Channel Prior for Salient Object Detection) can be downloaded at [here](https://arxiv.org/abs/1805.05132)
+Extended verision (Exploiting the Value of the Center-dark Channel Prior for Salient Object Detection) can be downloaded at [here](https://arxiv.org/abs/1805.05132).
 
 ## Abstract
 
