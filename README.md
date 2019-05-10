@@ -10,9 +10,9 @@
 
 
 
-## Journal Version
+## Journal Version (ACM Intelligent Systems and Technology)
 
-Extended verision (Exploiting the Value of the Center-dark Channel Prior for Salient Object Detection) can be downloaded at [here](https://arxiv.org/abs/1805.05132).
+Extended verision is published on ACM Intelligent Systems and Technology (Exploiting the Value of the Center-dark Channel Prior for Salient Object Detection), which can be downloaded at [here](https://dl.acm.org/citation.cfm?id=3319368).
 
 ## Abstract
 
