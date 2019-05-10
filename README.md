@@ -49,6 +49,27 @@ Reference
     doi={10.1109/ICCVW.2017.178}, 
     ISSN={}, 
     month={Oct},}
+    
+    @article{Zhu:2019:EVC:3325195.3319368,
+    author = {Zhu, Chunbiao and Zhang, Wenhao and Li, Thomas H. and Liu, Shan and Li, Ge},
+    title = {Exploiting the Value of the Center-dark Channel Prior for Salient Object Detection},
+    journal = {ACM Trans. Intell. Syst. Technol.},
+    issue_date = {May 2019},
+    volume = {10},
+    number = {3},
+    month = may,
+    year = {2019},
+    issn = {2157-6904},
+    pages = {32:1--32:20},
+    articleno = {32},
+    numpages = {20},
+    url = {http://doi.acm.org/10.1145/3319368},
+    doi = {10.1145/3319368},
+    acmid = {3319368},
+    publisher = {ACM},
+    address = {New York, NY, USA},
+    keywords = {Salient object detection, center-dark channel prior},
+    } 
 
 ## Previous work
 
